@@ -3,7 +3,7 @@
 use Illuminate\Database\Seeder;
 use Caffeinated\Shinobi\Models\Permission;
 
-class PermissionsTableSeeder extends Seeder
+class PermissionsSeeder extends Seeder
 {
     /**
      * Run the database seeds.
